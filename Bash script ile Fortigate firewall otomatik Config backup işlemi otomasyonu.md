@@ -1,4 +1,4 @@
-# Bash script ile Fortigate firewall cihazında otomatik Konfigürasyon backup işlemi 
+# Bash script ile Fortigate firewall cihazında otomatik Konfigürasyon yedekleme  
 
 Fortigate firewall cihazında otomatik konfigurasyon yedeklemesi yapıp ilgili yedek dosyasını ftp sunucusuna upload eden bir bash script hazırladım .
 
